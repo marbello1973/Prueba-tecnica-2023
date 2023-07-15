@@ -1,0 +1,19 @@
+{
+  "name": "prueba-tecnica-2023",
+  "version": "1.0.0",
+  "description": "prueba tecnica 2023 nivel intermedio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marbello1973/Prueba-tecnica-2023.git"
+  },
+  "author": "david marbello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marbello1973/Prueba-tecnica-2023/issues"
+  },
+  "homepage": "https://github.com/marbello1973/Prueba-tecnica-2023#readme"
+}
