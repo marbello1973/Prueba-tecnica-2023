@@ -1,6 +1,6 @@
 ## Prueba técnica 2023
 
-### Nivel de dificultad: Intermedio. Nivel de dificultad: Intermedio.
+### Nivel de dificultad: Intermedio.
 
 Una prueba técnica para validar conocimientos sobre las siguientes tecnologías:
 
